@@ -1,0 +1,5 @@
+cd C:\Users\usuario\etc, etc
+
+python -m pip install networkx matplotlib
+
+python algoritmos_grafos.py
